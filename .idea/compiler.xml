@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javasistdemo1" />
         <module name="httpclientutils" />
+        <module name="javasistdemo1" />
       </profile>
     </annotationProcessing>
   </component>
